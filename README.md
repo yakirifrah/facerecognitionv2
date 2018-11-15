@@ -1,4 +1,4 @@
 # facerecognitionfinal
 
-1. Run npm start
-2. 
+1. Run npm install  
+2. Run npm start
