@@ -1,0 +1,13 @@
+.form {
+    width: 700px;
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,0) 79px, rgb(171,206,212) 79px, rgb(171,206,212) 81px, rgba(0,0,0,0) 81px), -webkit-linear-gradient(90deg, rgb(238,238,238) 0.1em, rgba(0,0,0,0) 0.1em), rgb(255, 255, 255);
+    background: -moz-linear-gradient(90deg, rgba(0,0,0,0) 79px, rgb(171,206,212) 79px, rgb(171,206,212) 81px, rgba(0,0,0,0) 81px), -moz-linear-gradient(0deg, rgb(238,238,238) 0.1em, rgba(0,0,0,0) 0.1em), rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgba(0,0,0,0) 79px, rgb(171,206,212) 79px, rgb(171,206,212) 81px, rgba(0,0,0,0) 81px), linear-gradient(0deg, rgb(238,238,238) 0.1em, rgba(0,0,0,0) 0.1em), rgb(255, 255, 255);
+    background-position: auto auto;
+    -webkit-background-origin: padding-box;
+    background-origin: padding-box;
+    -webkit-background-clip: border-box;
+    background-clip: border-box;
+    -webkit-background-size: 100% 1.2em;
+    background-size: 100% 1.2em;
+}
